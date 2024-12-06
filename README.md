@@ -1,6 +1,6 @@
 # Netflix Data Analysis using SQL
 
-![Netflix Banner](path-to-your-image.png)
+![Netflix Banner](download (2).jpeg)
 
 ## Introduction
 
