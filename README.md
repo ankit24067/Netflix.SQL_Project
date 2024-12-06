@@ -1,7 +1,6 @@
 # Netflix Data Analysis using SQL
 
-![Netflix Banner](download (2).jpeg)
-
+![Netflix Logo](download%20(2).jpeg)
 ## Introduction
 
 This project delves into the vast catalog of Netflix movies and TV shows, leveraging SQL to uncover trends and patterns. The aim is to provide insights into the platform's content library, identify dominant characteristics, and address key business questions based on the available data.
