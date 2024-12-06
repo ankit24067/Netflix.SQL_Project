@@ -26,8 +26,11 @@ This project delves into the vast catalog of Netflix movies and TV shows, levera
 ## Key Insights
 
 **Content Variety**: The Netflix library showcases a rich mix of movies and TV shows spanning diverse genres and rating categories, reflecting its global appeal.
+
 **Audience Targeting**: The analysis of ratings reveals patterns in how Netflix tailors content for specific audiences, providing valuable insights into its strategic approach.
+
 **Regional Trends**: The data highlights top countries contributing to Netflix’s catalog, with India standing out for its significant contributions to content releases.
+
 **Content Analysis**: Grouping titles based on keywords offers a clearer perspective on the themes and types of content available, aiding in deeper understanding of the library's structure.
 
 
